@@ -1,3 +1,30 @@
 site_name: My Docs
 theme:
   name: readthedocs
+
+nav:
+  - 'UMUM':
+    - 'Struktur Organisasi': umum/struktur_organisasi.md
+    - 'Agenda/Jadwal/Event': umum/agenda.md
+    - 'AD/ART': umum/adart.md
+    - 'Lembar Kegiatan': umum/lembar_kegiatan.md
+
+  - 'TIMELINE':
+    - 'Komunitas Programming Website': timeline/komunitas_programming_website.md
+    - 'Komunitas Programming UNAMA': timeline/komunitas_programming_unama.md
+    - 'Recruitment 2022: Gelombang 1': timeline/rekrutment_2022_gelombang_1.md
+    - 'Mubes 2022': timeline/mubes_2022.md
+    - 'Recruitment 2022: Gelombang 2': timeline/rekrutment_2022_gelombang_2.md
+  
+  - 'Guideline Penggunaan Discord':
+    - 'Peraturan UMUM': discord/peraturan_umum.md
+    - 'Role & Achivement': discord/role_dan_achivement.md
+    - 'Penggunaan BOT': discord/bot.md
+    - 'The Purge Day (The Reset Day)': discord/reset.md
+
+  - 'Guideline Penggunaan Github':
+    - 'Peraturan Pesan Commmit': github/commit.md
+
+  - 'Materi':
+    - '(Pertemuan 1-3) Github': materi/pertemuan_1_3.md
+    - '(Pertemuan 4): Persiapan Lingkungan Pengembangan': materi/pertemuan_4.md
