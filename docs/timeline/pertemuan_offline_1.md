@@ -1,6 +1,6 @@
 ## Link Materi
 
-[link materi]([./pertemuan_offline_i/materi/pertemuan%20offline%201.pptx](https://github.com/ProgrammingUNAMA/docs/blob/master/docs/timeline/pertemuan_offline_i/materi/pertemuan%20offline%201.pptx))
+[link materi](https://github.com/ProgrammingUNAMA/docs/blob/master/docs/timeline/pertemuan_offline_i/materi/pertemuan%20offline%201.pptx)
 
 
 ## Dokumentasi
