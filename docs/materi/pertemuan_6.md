@@ -136,7 +136,7 @@ Contoh:
 
 ![The San Juan Mountains are beautiful!](pertemuan_6/san-juan-mountains.jpg "San Juan Mountains")
 
-## Obsidian I (Kanban Exntensions)
+## C. Obsidian I (Kanban Exntensions)
 
 [Github Repo: obsidianmd/obsidian-sample-plugin](https://github.com/mgmeyers/obsidian-kanban)
 
