@@ -9,6 +9,10 @@
 
 ### A. Email
 
+[Official Documentations](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
+
+![email_privacy](pertemuan_6_b/email_privacy.png)
+
 ### B. Github SSH
 
 [Official Documentations](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
