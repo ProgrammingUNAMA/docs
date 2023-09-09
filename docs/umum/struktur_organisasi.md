@@ -1,2 +1,2 @@
 ## Struktur Organisasi
-![struktur organisasi](img/struktural_1.png)
+![struktur organisasi](img/Struktural_1.png)
