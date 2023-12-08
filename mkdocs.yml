@@ -1,6 +1,6 @@
 site_name: Programming UNAMA
 theme:
-  name: readthedocs
+  name: dracula
 
 nav:
   - 'UMUM':
